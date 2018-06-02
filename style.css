@@ -1,0 +1,323 @@
+#topbar{
+		width:1200px;
+		margin:0 auto;
+		
+		height:40px;
+		}
+	h1{
+	padding:0;
+	margin:0;
+	color:white;
+	font-size:40px;
+	font-weight:normal;
+	padding-top:10px;
+	}
+		
+	body{
+		margin:0;
+		padding:0;
+		font-family:Helvetica,Arial,sans-serif;
+		}
+	#logo{
+	margin:8px;
+	width:100px;
+	float:left;
+	margin-right:8px;
+	
+	}
+	.topbar-section{
+	float:left;
+	border-left:1px #cccccc solid;
+	height:100%;
+	
+	}
+	#signin-image{
+	width:30px;
+	margin:10px 12px;
+	float:left; 
+	}
+	#signin-text{
+	font-size:90%;
+	font-weight:bold;
+	position:relative;
+	top:14px;
+	
+	}
+	#News{
+	margin-left:80px;
+	float:left;
+	border-left:1px #cccccc solid;
+	height:100%;
+	}
+	#news-text{
+	font-weight:bold;
+	font-size:90%;
+	position:relative;
+	top:14px;
+	left:13px;
+	}
+	#Sport{
+	margin-left:30px;
+	float:left;
+	border-left:1px #cccccc solid;
+	height:100%;
+	}
+	#Sport-text{
+	font-weight:bold;
+	font-size:90%;
+	position:relative;
+	top:14px;
+	left:13px;
+	
+	}
+	#weather{
+	margin-left:30px;
+	float:left;
+	border-left:1px #cccccc solid;
+	height:100%;
+	}
+	#weather-text{
+	font-weight:bold;
+	font-size:90%;
+	position:relative;
+	top:14px;
+	left:13px;
+	
+	}
+	#shop{
+	margin-left:30px;
+	float:left;
+	border-left:1px #cccccc solid;
+	height:100%;
+	}
+	#shop-text{
+	font-weight:bold;
+	font-size:90%;
+	position:relative;
+	top:14px;
+	left:13px;
+	
+	}
+	#earth{
+	margin-left:30px;
+	float:left;
+	border-left:1px #cccccc solid;
+	height:100%;
+	}
+	#earth-text{
+	font-weight:bold;
+	font-size:90%;
+	position:relative;
+	top:14px;
+	left:13px;
+	
+	}
+	#travel{
+	margin-left:30px;
+	float:left;
+	border-left:1px #cccccc solid;
+	height:100%;
+	}
+	#travel-text{
+	font-weight:bold;
+	font-size:90%;
+	position:relative;
+	top:14px;
+	left:13px;
+	
+	}
+	#more{
+	margin-left:30px;
+	float:left;
+	border-left:1px #cccccc solid;
+	height:100%;
+	}
+	#more-text{
+	font-weight:bold;
+	font-size:90%;
+	position:relative;
+	top:14px;
+	left:13px;
+	
+	}
+	#arrow{
+	float:right;
+	margin-left:80px;
+	margin-top:15px;
+	width:20px
+	}
+	#search{
+	margin-left:8px;
+	float:left;
+	border-left:1px #cccccc solid;
+	height:100%;
+	}
+	#searchbox{
+	background-color:#E4E4E4;
+	border:none;
+	font-weight:bold;
+	font-size:14px;
+	padding:5px;
+	margin:5px 0 5px 5px; 
+	
+	
+	}
+	#mag{
+	
+	height:28px;
+	margin-top:5px;
+	margin-left:0;
+	}
+	.clear{
+	clear:both;
+	}
+	#menu{
+	background-color:#BB1919;
+	width:100%;
+	height:70px;
+	}
+	#menu2{
+	background-color:#A91717;
+	width:100%;
+	height:40px;
+	}
+	#menu2 a{
+	color:white;
+	text-decoration:none;
+	
+	padding:0 10px;
+	border-right:1px #BB4545 solid;
+	font-size:18px;
+	position:relative;
+	top:10px;
+	}
+	#menu2 a:hover{
+	text-decoration:underline;
+	}
+	.no-border{
+	border:none !important;
+	}
+	#menuimg{
+	width:20px;
+	height:17px;
+	position:relative;
+	top:10px;
+	}
+	.class{
+	clear:both;
+	}
+    #page{
+	width:1000px;
+	margin:0 auto;
+	}
+	
+	h2{
+	font-weight:normal;
+	margin-top:120px;
+	margin-left:0;
+	font-size:20px;
+	border-bottom:2px solid #a91717;
+	width:105px;
+	
+	}
+	h3 a{
+	text-decoration:none;
+	font-size:30px;
+	color:black;
+	}
+	h3 a:hover{
+	color:#1167a8;
+	}
+	#article-summary{
+	color:#5a5a5a;
+	width:250px;
+	float:left;
+	}
+	#article-summary img{
+	height:25px;
+
+	padding-right:4px;
+	position:relative;
+	top:7px;
+	}
+	#topic{
+	text-decoration:none;
+	color:#a91717;
+	border-left:1px solid #cccccc;
+	padding-left:10px;
+	}
+	#date{
+	padding-right:10px;
+	}
+	#main-article{
+	float:left;
+	width:800px;
+	}
+	#main-article-image{
+	width:370px;
+	height:250px;
+	margin-left:25px;
+	margin-top:15px;
+	border-right:1px solid #cccccc;
+	padding-right:10px;
+	}
+	#article-hr{
+	border-top:1px solid #a91717;
+	width:50px;
+	}
+	#links{
+	text-decoration:none;
+	color:black;
+	}
+	#links:hover{
+	color:#1167a8;
+	}
+	#watch{
+	float:right;
+	width:360px;
+	position:relative;
+	top:-280px;
+	left:30px;
+	}
+	#watch-text{
+	font-size:25px;
+	color:#5a5a5a;
+	}
+	.watchimg{
+	float:left;
+	width:120px;
+	}
+	.watch-link{
+	text-decoration:none;
+	color:black;
+	font-weight:bold;
+	font-size:18px;
+	}
+	.watch-link:hover{
+	color:#1167a8;
+	}
+	.ii{
+	height:30px;
+	position:relative;
+	top:-15px;
+	}
+	.watch-date{
+	
+	font-size:15px;
+	position:relative;
+	top:-25;
+	padding-right:5px;
+	
+	}
+	.wat-link{
+	
+	text-decoration:none;
+	color:#a91717;
+	border-left:1px solid #cccccc;
+	padding-left:5px;
+	position:relative;
+	top:-25px;
+	}
+	.wat-link:hover{
+	color:#1167a8;
+	}
